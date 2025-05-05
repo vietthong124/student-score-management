@@ -15,7 +15,7 @@ This is a SQL Server project designed to manage student academic data, including
 
 ## Files
 
-- `NHOM1_QLDIEMHS.sql`: contains database creation scripts, table definitions, and sample data inserts
+- `QLDIEMHS.sql`: contains database creation scripts, table definitions, and sample data inserts
 
 ## Author
 
